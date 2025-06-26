@@ -1,1 +1,1 @@
-print("Olá turma")
+print("Olá turma do minicuroso de git")
